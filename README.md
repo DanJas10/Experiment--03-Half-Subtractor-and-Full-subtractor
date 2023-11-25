@@ -42,12 +42,14 @@ RegisterNumber:  23012930
 
 ## CODE:
 
-# HALF SIBTRACTOR:
+# HALF SUBTRACTOR:
+
 ![code](https://github.com/DanJas10/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931233/61ad4ef6-1e95-4542-bfdb-c7f10251c8ba)
 
 
 
 # FULL SUBTRACTOR:
+
 ![code](https://github.com/DanJas10/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931233/cb6ccdc2-75d0-4b5d-a96d-bcef95a81827)
 
 
@@ -56,11 +58,13 @@ RegisterNumber:  23012930
 ## TRUTH TABLE:
 
 # HALF SUBTRACTOR:
+
 ![truth table](https://github.com/DanJas10/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931233/4362bdb9-8c07-44be-9fa3-559f8624a65f)
 
 
 
 # FULL SUBTRACTOR:
+
 ![truth table](https://github.com/DanJas10/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931233/7d8ddbc0-adb7-4164-bb2f-71a31b5edc47)
 
 
@@ -69,11 +73,13 @@ RegisterNumber:  23012930
 ##  RTL DIAGRAM:
 
 # HALF SUBTRACTOR:
+
 ![RTL](https://github.com/DanJas10/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931233/1fcd8813-3332-463f-8443-8c0f69973fd4)
 
 
 
 # FULL SUBTRACTOR:
+
 ![RTL](https://github.com/DanJas10/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931233/802863d7-f3e4-4c0e-883d-9581ecb0cf90)
 
 
@@ -81,11 +87,13 @@ RegisterNumber:  23012930
 ## TIMING DIAGRAM:
 
 # HALF SUBTRACTOR:
+
 ![output](https://github.com/DanJas10/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931233/cb425627-fa74-44c9-aa8d-d33a9f202c0c)
 
 
 
 # FULL SUBTRACTOR:
+
 ![output](https://github.com/DanJas10/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931233/e250ac2d-708f-4d8d-8944-720b44b33c81)
 
 
