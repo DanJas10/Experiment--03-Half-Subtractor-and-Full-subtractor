@@ -1,11 +1,10 @@
-![RTL](https://github.com/DanJas10/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931233/228e9102-6d49-4a0c-bb20-5784138561b2)![RTL](https://github.com/DanJas10/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931233/2ed16d62-57b5-4375-8ff8-d50831d02197)![output](https://github.com/DanJas10/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150931233/3cad90cf-4736-4b19-a0a6-1dbc6d179e94)# Experiment--03-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
 
 ## Equipments Required:
-## Hardware – PCs, Cyclone II , USB flasher
-## Software – Quartus prime
+* Hardware – PCs, Cyclone II , USB flasher
+* Software – Quartus prime
 ## Theory
 Subtractor circuits take two binary numbers as input and subtract one binary number input from the other binary number input. Similar to adders, it gives out two outputs, difference and borrow (carry-in the case of Adder). There are two types of subtractors.
 
@@ -28,9 +27,12 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 ## Procedure
 
 
-
-Write the detailed procedure here 
-
+### Step 1:
+Use module program name(input,output)to start the verilog program
+### Step 2:
+Assign inputs and outputs
+### Step 3:
+End the verilog program using keyword endmodule
 
 ## Program:
 /*
